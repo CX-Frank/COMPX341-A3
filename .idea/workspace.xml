@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="214d9e77-a56e-463c-8a35-9f58ebc7d67a" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/precache-manifest.7daba7c11315f120b1dd2effd4531a2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/css/2.665a96cb.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/static/css/2.665a96cb.chunk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/css/main.c6c1930f.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/static/css/main.c6c1930f.chunk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.8c808336.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.8c808336.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.8c808336.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/main.9a6ac6eb.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/main.9a6ac6eb.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/runtime-main.9280458a.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/static/js/runtime-main.9280458a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/glyphicons-halflings-regular.89889688.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/static/media/glyphicons-halflings-regular.89889688.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/modules/bestSellers/BestSellers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/modules/bestSellers/BestSellers.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29KmP2wKBRU0Q93EVuV4zlTlYLR" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "ts.external.directory.path": "D:\\341\\a3\\COMPX341-A3\\assets\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="214d9e77-a56e-463c-8a35-9f58ebc7d67a" name="变更" comment="" />
+      <created>1652870124779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652870124779</updated>
+      <workItem from="1652870126878" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
