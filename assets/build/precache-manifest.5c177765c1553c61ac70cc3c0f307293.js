@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f81b1071bead122566065471562f20b",
+    "revision": "30dc85ea16044c3a4bb7155f3ae06780",
     "url": "/index.html"
   },
   {
-    "revision": "01a8f9f59d4779cd0341",
+    "revision": "e7435c8d86fde362f242",
     "url": "/static/css/2.665a96cb.chunk.css"
   },
   {
-    "revision": "ecf7238451dd3603ed58",
+    "revision": "e36f22257cc6dcc3909d",
     "url": "/static/css/main.c6c1930f.chunk.css"
   },
   {
-    "revision": "01a8f9f59d4779cd0341",
-    "url": "/static/js/2.54064122.chunk.js"
+    "revision": "e7435c8d86fde362f242",
+    "url": "/static/js/2.8da9a26a.chunk.js"
   },
   {
     "revision": "7e691de90681f28b2538150436e19c7c",
-    "url": "/static/js/2.54064122.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8da9a26a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ecf7238451dd3603ed58",
-    "url": "/static/js/main.d5be1de7.chunk.js"
+    "revision": "e36f22257cc6dcc3909d",
+    "url": "/static/js/main.b2f84724.chunk.js"
   },
   {
     "revision": "fc57411f62abc7420ae5",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f95a983ab2893a069c782d92ee6b9a70",
     "url": "/static/media/bestSellers.f95a983a.png"
-  },
-  {
-    "revision": "161c4a441a391c6bc596220c8db0a1e4",
-    "url": "/static/media/burgers.161c4a44.png"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
@@ -100,24 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hero-woodwork.3df92e23.png"
   },
   {
-    "revision": "922459532b985f95bcbbf46428a6093f",
-    "url": "/static/media/italian.92245953.png"
-  },
-  {
-    "revision": "86634adf1691832e085e24841bf1c183",
-    "url": "/static/media/noodles.86634adf.png"
-  },
-  {
-    "revision": "22f42738e6496c5085dfa50133218292",
-    "url": "/static/media/pancakes.22f42738.png"
-  },
-  {
     "revision": "9fa03bfe92fc72fea97174e72e1e97d4",
     "url": "/static/media/pastOrders.9fa03bfe.png"
-  },
-  {
-    "revision": "203d8247e56a2f1c0fd7d52baf1b19c3",
-    "url": "/static/media/pineapple.203d8247.png"
   },
   {
     "revision": "e45e4325617237f3355f5eb47d2a8908",
@@ -126,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f89c06edb2fb41d5abcae96cf8281d5",
     "url": "/static/media/supportedCards.0f89c06e.png"
-  },
-  {
-    "revision": "c6f148dcb9b1d22b54c5177dc63a2996",
-    "url": "/static/media/umami.c6f148dc.png"
   },
   {
     "revision": "76f37cd9c73a4a657f53ac2c301dc74b",

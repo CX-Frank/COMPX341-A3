@@ -1,4 +1,4 @@
-/*
+
 import React from "react";
 import { LinkContainer } from "react-router-bootstrap";
 import { NavItem } from "react-bootstrap";
@@ -35,4 +35,4 @@ export class BestSellersBar extends React.Component {
   }
 }
 
-export default BestSellersBar;*/
+export default BestSellersBar;

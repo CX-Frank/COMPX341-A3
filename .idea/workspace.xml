@@ -5,14 +5,19 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/build/precache-manifest.737d93ca65314bb405ea88daba9af0b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/precache-manifest.4d434c0ee6e0b0a964b3fbba33072ace.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.564373bc.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.564373bc.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.564373bc.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/build/static/js/main.c81727ec.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/build/static/js/main.c81727ec.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/modules/bestSellers/BestSellers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/modules/bestSellers/BestSellers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.54064122.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.54064122.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/2.54064122.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/main.d5be1de7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/js/main.d5be1de7.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/burgers.161c4a44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/italian.92245953.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/noodles.86634adf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/pancakes.22f42738.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/pineapple.203d8247.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/build/static/media/umami.c6f148dc.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/src/modules/bestSellers/bestSellersBar/BestSellersBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/modules/bestSellers/bestSellersBar/BestSellersBar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +53,7 @@
       <workItem from="1652870126878" duration="67000" />
       <workItem from="1652871285599" duration="102000" />
       <workItem from="1652871419311" duration="253000" />
+      <workItem from="1652872421723" duration="17000" />
     </task>
     <servers />
   </component>
