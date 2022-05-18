@@ -1,4 +1,4 @@
-/*
+
 import React from "react";
 import { API } from "aws-amplify";
 
@@ -60,4 +60,4 @@ export default class BestSellers extends React.Component<BestSellersProps, BestS
       </div>
     );
   }
-}*/
+}
